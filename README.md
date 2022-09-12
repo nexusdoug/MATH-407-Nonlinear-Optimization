@@ -11,6 +11,6 @@ I hope the following resources benefit those interested, or any self learners.
 * 📝 Personal lecture notes
   * [ ] Math 407 lecture notes: Rough draft, incomplete.
   * [x] Math 408 lecture notes: Much more thorough and complete. 
-  * [x] Math 409 lecture notes: Condensed and streamlined notes, not comprehensive. 
-* Selected homeworks
+  * [x] Math 409 lecture notes: Condensed and streamlined notes, not comprehensive. More of a study guide.
+* Selected homeworks 
 
